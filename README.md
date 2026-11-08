@@ -15,13 +15,14 @@ benchmark come from our evaluation.
 MIT300 and CAT2000 test images are hosted by MIT, see the
 [submission instructions](https://saliency.tuebingen.ai/submission.html).
 
-The archives contain the original image files, unchanged, in one folder per dataset. Name your
+The archives contain the original image files, unchanged, in one folder per dataset, and a
+README.txt with sources and citations. Name your
 prediction files like the images (see the submission instructions).
 
 SHA-256 checksums:
 
 ```
-0da5f7623451dbfdfb22897bc024f87aab0d38ef4b1aaf2073933b7bbae13103  COCO-Freeview_test_images.zip
+a427c382080ae791b7c3e119bd9caed5dc45f1c221cda9cdab8470c4be4dd08a  COCO-Freeview_test_images.zip
 ```
 
 ## Sources and citations
